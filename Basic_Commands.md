@@ -38,3 +38,11 @@
 
 ## Q. How to delete directories. 
     rm -r derectoryName
+# Copy Files
+
+## Q How to Copy file from one location to another 
+     cp /source/path/file1 /destination/path/file2 
+     
+# Rename or Move
+## Q  How to Copy file from one location to another 
+      mv source/fileOrFolder destination/fileOrFolder
